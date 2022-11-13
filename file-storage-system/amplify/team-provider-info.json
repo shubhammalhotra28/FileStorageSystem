@@ -10,6 +10,21 @@
       "StackName": "amplify-filestoragesystem-dev-120048",
       "StackId": "arn:aws:cloudformation:us-east-1:088657720649:stack/amplify-filestoragesystem-dev-120048/b945f800-6374-11ed-ae95-0a9ef7729af5",
       "AmplifyAppId": "d3sgbxcjldxdbx"
+    },
+    "categories": {
+      "auth": {
+        "filestoragesystemf236f6a3": {}
+      },
+      "function": {
+        "S3Trigger7ceb26ce": {
+          "deploymentBucketName": "amplify-filestoragesystem-dev-120048-deployment",
+          "s3Key": "amplify-builds/S3Trigger7ceb26ce-52756c524f37576a4f74-build.zip"
+        },
+        "textupload": {
+          "deploymentBucketName": "amplify-filestoragesystem-dev-120048-deployment",
+          "s3Key": "amplify-builds/textupload-6a346e44323152794854-build.zip"
+        }
+      }
     }
   }
 }
