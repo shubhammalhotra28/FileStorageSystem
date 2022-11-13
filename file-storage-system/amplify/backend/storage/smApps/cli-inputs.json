@@ -1,0 +1,14 @@
+{
+  "resourceName": "smApps",
+  "policyUUID": "dc6bb697",
+  "bucketName": "sm-apps",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "S3Trigger7ceb26ce",
+  "groupAccess": {}
+}

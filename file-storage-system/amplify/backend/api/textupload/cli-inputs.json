@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/textupload": {
+      "name": "/textupload",
+      "lambdaFunction": "textupload",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
